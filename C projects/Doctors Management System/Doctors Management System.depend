@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1578391276 source:c:\users\subhransu das\desktop\c projects\doctors management system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"User_SignUp.h"
+	"Administrator_SignUp.h"
+
+1578146089 c:\users\subhransu das\desktop\c projects\doctors management system\user_signup.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1578391916 c:\users\subhransu das\desktop\c projects\doctors management system\administrator_signup.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
